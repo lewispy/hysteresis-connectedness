@@ -1,5 +1,12 @@
 # Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index: Evidence from a Multi-threshold Connectedness Approach
 
+[![DOI](https://zenodo.org/badge/1289198920.svg)](https://zenodo.org/badge/latestdoi/1289198920)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)](https://www.r-project.org/)
+
+> **Note:** The DOI badge above activates automatically once the repository is archived on
+> [Zenodo](https://zenodo.org) and a release is published. See [Archiving & DOI](#archiving--doi) below.
+
 Replication code and materials for:
 
 > Onodje, P. (2026). *Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index: Evidence from a multi-threshold connectedness approach.* **Finance Research Open**, 2, 100091.
@@ -123,6 +130,17 @@ If you use this code or build on this work, please cite:
   year    = {2026}
 }
 ```
+
+## Archiving & DOI
+
+This repository can be archived and assigned a citable DOI via
+[Zenodo](https://zenodo.org):
+
+1. Sign in to Zenodo with your GitHub account and authorize access.
+2. Under **Zenodo → Settings → GitHub**, toggle this repository **On**.
+3. On GitHub, publish a release (e.g. `v1.0.0`). Zenodo automatically archives that
+   release and mints a DOI.
+4. The DOI badge at the top of this README resolves to the latest archived version.
 
 ## License
 
