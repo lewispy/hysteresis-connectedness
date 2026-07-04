@@ -29,12 +29,15 @@ The findings reveal robust evidence of hysteresis: connectedness intensifies dur
 ```
 hysteresis-connectedness/
 ├── code/
-│   └── Hysteresis_Connectedness.R           # Full replication code (tables + figures)
-├── Onodje 2026.pdf                          # Published paper
-├── Onodje 2026 Poster.pdf                   # Conference poster
-├── Onodje 2026 Hysteresis Presentation.pptx # Presentation slides
-├── CITATION.cff                             # Machine-readable citation
-├── LICENSE                                  # MIT License
+│   └── Hysteresis_Connectedness.R   # Full replication code (tables + figures)
+├── paper/
+│   └── Onodje_2026.pdf              # Published paper
+├── poster/
+│   └── Onodje_2026_Poster.pdf       # Conference poster
+├── slides/
+│   └── Onodje_2026_Presentation.pptx # Presentation slides
+├── CITATION.cff                     # Machine-readable citation
+├── LICENSE                          # MIT License
 └── README.md
 ```
 
