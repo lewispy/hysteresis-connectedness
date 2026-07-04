@@ -1,11 +1,8 @@
 # Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index: Evidence from a Multi-threshold Connectedness Approach
 
-[![DOI](https://zenodo.org/badge/1289198920.svg)](https://zenodo.org/badge/latestdoi/1289198920)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21193874.svg)](https://doi.org/10.5281/zenodo.21193874)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Made with R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)](https://www.r-project.org/)
-
-> **Note:** The DOI badge above activates automatically once the repository is archived on
-> [Zenodo](https://zenodo.org) and a release is published. See [Archiving & DOI](#archiving--doi) below.
 
 Replication code and materials for:
 
@@ -32,15 +29,12 @@ The findings reveal robust evidence of hysteresis: connectedness intensifies dur
 ```
 hysteresis-connectedness/
 ├── code/
-│   └── Hysteresis_Connectedness.R   # Full replication code (tables + figures)
-├── paper/
-│   └── Onodje_2026.pdf              # Published paper
-├── poster/
-│   └── Onodje_2026_Poster.pdf       # Conference poster
-├── slides/
-│   └── Onodje_2026_Presentation.pptx # Presentation slides
-├── CITATION.cff                     # Machine-readable citation
-├── LICENSE                          # MIT License
+│   └── Hysteresis_Connectedness.R           # Full replication code (tables + figures)
+├── Onodje 2026.pdf                          # Published paper
+├── Onodje 2026 Poster.pdf                   # Conference poster
+├── Onodje 2026 Hysteresis Presentation.pptx # Presentation slides
+├── CITATION.cff                             # Machine-readable citation
+├── LICENSE                                  # MIT License
 └── README.md
 ```
 
@@ -117,7 +111,7 @@ res <- run_export_and_plot(
 
 ## Citation
 
-If you use this code or build on this work, please cite:
+If you use this code or build on this work, please cite the **paper**:
 
 ```bibtex
 @article{Onodje2026Hysteresis,
@@ -131,16 +125,17 @@ If you use this code or build on this work, please cite:
 }
 ```
 
+To cite this **archived code and materials** directly:
+
+> Onodje, P. (2026). *Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index:
+> Evidence from a multi-threshold connectedness approach* (Version 1.0.0) [Software].
+> Zenodo. https://doi.org/10.5281/zenodo.21193874
+
 ## Archiving & DOI
 
-This repository can be archived and assigned a citable DOI via
-[Zenodo](https://zenodo.org):
-
-1. Sign in to Zenodo with your GitHub account and authorize access.
-2. Under **Zenodo → Settings → GitHub**, toggle this repository **On**.
-3. On GitHub, publish a release (e.g. `v1.0.0`). Zenodo automatically archives that
-   release and mints a DOI.
-4. The DOI badge at the top of this README resolves to the latest archived version.
+This repository is archived on [Zenodo](https://zenodo.org) with a citable DOI:
+[10.5281/zenodo.21193874](https://doi.org/10.5281/zenodo.21193874). Each new GitHub
+release is automatically archived and versioned there.
 
 ## License
 
