@@ -5,6 +5,13 @@ authors:
   - family-names: Onodje
     given-names: Patrick
     affiliation: "Department of Economics, University of Ibadan, Ibadan, Nigeria"
+version: 1.0.0
+date-released: 2026-07-04
+doi: 10.5281/zenodo.21193874
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21193874
+    description: "Archived software/materials (Zenodo)"
 preferred-citation:
   type: article
   title: "Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index: Evidence from a multi-threshold connectedness approach"
