@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or materials, please cite the following article."
+title: "Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index: Evidence from a multi-threshold connectedness approach"
+authors:
+  - family-names: Onodje
+    given-names: Patrick
+    affiliation: "Department of Economics, University of Ibadan, Ibadan, Nigeria"
+preferred-citation:
+  type: article
+  title: "Hysteresis between Bitcoin, Gold, Oil, and the S&P 500 index: Evidence from a multi-threshold connectedness approach"
+  authors:
+    - family-names: Onodje
+      given-names: Patrick
+  journal: "Finance Research Open"
+  volume: 2
+  start: 100091
+  year: 2026
+keywords:
+  - Financial contagion
+  - Hysteresis
+  - Multi-threshold connectedness
+  - Volatility spillovers
+  - TVP-VAR
+license: MIT
